@@ -26,12 +26,11 @@ Cost_of_borrowings,2.1,1.42,0.76,1.43,3.76,2.66,1.01,0.17
 Cost_of_funds,6.96,5.74,6.88,5.68,6.7,5.81,6.68,5.56
 Return_on_advances,8.69,7.62,10.29,8.99,10.05,8.93,10.27,8.57
 Return_on_investments,9.61,8.78,10.23,10.22,9.94,8.86,9.79,9.96
-Return_on_advances_adjusted_to_cost_of_funds,1.73,1.88,3.41,3.32,3.35,3.12,3.6,3.0
-Return_on_advances_adjusted_to_cost_of_funds,1.73,1.88,3.41,3.32,3.35,3.12,3.6,3.0
+Return_on_advances_adjusted_to_cost_of_funds,1.73,1.88,3.41,3.32,3.35,3.12,3.6,3
 Return_on_investments_adjusted_to_cost_of_funds,2.65,3.04,3.36,4.55,3.24,3.05,3.11,4.4
-Business_per_employee_(in_Rs._lakh),191.0,210.56,145.64,169.82,226.2,265.86,220.52,230.77
+Business_per_employee_(in_Rs._lakh),191,210.56,145.64,169.82,226.2,265.86,220.52,230.77
 Profit_per_employee_(in_Rs._lakh),1.47,1.77,1.63,5.52,2.25,2.87,3.06,3.45
 Capital_adequacy_ratio,13.5,13.53,13.08,12.93,14.91,14.29,13.09,12.39
 Capital_adequacy_ratio_Tier_I,8.81,8.34,10.52,9.03,9.84,8.42,9.4,8.31
 Capital_adequacy_ratio_Tier_II,4.69,5.19,2.56,3.9,5.07,5.87,3.69,4.08
-Ratio_of_net_NPA_to_net_advances,4.5,3.48,4.13,1.24,3.25,0.65,2.66,0.0
+Ratio_of_net_NPA_to_net_advances,4.5,3.48,4.13,1.24,3.25,0.65,2.66,0
